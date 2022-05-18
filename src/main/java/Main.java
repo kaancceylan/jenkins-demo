@@ -3,3 +3,7 @@ public class Main {
             //code will go in here
         }
     }
+
+public static boolean checkIfInputIsAnEvenNumber(int number){
+        return number % 2 == 0;
+    }
